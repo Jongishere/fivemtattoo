@@ -184,7 +184,7 @@ function HideClothes(ocultar, enable_opcao)
     end
 end
 
--- Stock notify
+
 function Notify(text)
     SetNotificationTextEntry('STRING')
     AddTextComponentString(text)
